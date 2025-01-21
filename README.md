@@ -1,4 +1,4 @@
-# Hi there, I'm Christian! 👋
+# Hi there, I'm Chris! 👋
 
 I'm a Business graduate who discovered a passion for coding and is now diving deep into the tech world at 42 Vienna! This GitHub repository showcases my journey from business to programming, featuring projects that reflect my growth and learning in software development.
 
